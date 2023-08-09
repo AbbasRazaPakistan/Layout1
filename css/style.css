@@ -8,6 +8,8 @@ body {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 20px;
+  display: flex;
+  justify-content: center;
 }
 main {
   border: 2px solid black;
